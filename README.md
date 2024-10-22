@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Hrushikesh Kore</h1>
 <h3 align="center">A passionate Technical enthusiast from India</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect:</h3>
 <p align="left">
 </p>
 
